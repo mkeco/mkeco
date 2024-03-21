@@ -7,7 +7,7 @@
 
 
 ### Languages
-<img height="64" width="64" src="https://cdn.simpleicons.org/go" />                                                                                         <img height="64" width="64" src="https://cdn.simpleicons.org/rust" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/go" />      |          <img height="64" width="64" src="https://cdn.simpleicons.org/rust" />
 
 
 
