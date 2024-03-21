@@ -7,7 +7,7 @@
 
 
 ### Languages
-<img height="64" width="64" src="https://cdn.simpleicons.org/go" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/rust" />  <img height="64" width="64" src="https://cdn.simpleicons.org/typescript" />  <img height="64" width="64" src="https://cdn.simpleicons.org/python" />  <img height="64" width="64" src="https://cdn.simpleicons.org/swift" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/go" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/rust" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/typescript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/swift" />
 
 
 
