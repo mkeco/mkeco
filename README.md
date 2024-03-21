@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mkeco&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-### Platforms
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mechanic%20Light%20Skin%20Tone.png" alt="Man Mechanic Light Skin Tone" width="50" height="50" />
 <img height="64" width="64" src="https://cdn.simpleicons.org/apple" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/fedora" />
 ### Tools
 <img height="64" width="64" src="https://cdn.simpleicons.org/visualstudiocode" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/zedindustries" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/alacritty" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/obsidian" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/safari" />
