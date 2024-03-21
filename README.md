@@ -4,7 +4,7 @@
 ### Platforms
 <img height="64" width="64" src="https://cdn.simpleicons.org/apple" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/fedora" />
 ### Tools
-<img height="64" width="64" src="https://cdn.simpleicons.org/apple" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/zedindustries" />
+<img height="64" width="64" src="https://cdn.simpleicons.org/visualstudiocode" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/zedindustries" />
 
 ### Languages
 <img height="64" width="64" src="https://cdn.simpleicons.org/go" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/rust" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/typescript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.simpleicons.org/swift" />
