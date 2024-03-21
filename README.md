@@ -2,7 +2,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mkeco&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ### Platforms
-
+<img height="64" width="64" src="https://cdn.simpleicons.org/apple" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ### Tools
 
 
